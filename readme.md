@@ -3,6 +3,8 @@
 2. type `nu` in the terminal and start nushell
 3. in this directory, run `source course_lookup.nu`
 
+![](image.png)
+
 Now, you can search with `mts [search term]` and `vpl [search term]`
 
 all courses in `mts` can be used for the cs masters.
