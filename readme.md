@@ -1,5 +1,5 @@
 # HOW TO USE
-1. install nushell
+1. install [nushell](https://www.nushell.sh/)
 2. type `nu` in the terminal and start nushell
 3. in this directory, run `source course_lookup.nu`
 
